@@ -28,3 +28,33 @@ Laman masih kosong
 
 
 
+Praktikum 13
+Modul Login
+
+
+MySQL sudah berjalan
+
+![WhatsApp Image 2021-06-27 at 20 41 54](https://user-images.githubusercontent.com/56506849/123546965-0936a680-d789-11eb-9fc5-85790d14567c.jpeg)
+
+
+
+
+Membuat Model 
+Buat file baru pada app/Models dengan nama UserModel.php
+![WhatsApp Image 2021-06-27 at 20 41 55](https://user-images.githubusercontent.com/56506849/123546992-210e2a80-d789-11eb-872d-983339c5fdc3.jpeg)
+
+
+
+Buat Cotroller User
+Buat dengan nama user.php pada direktori app/controller
+![WhatsApp Image 2021-06-27 at 20 41 55 (1)](https://user-images.githubusercontent.com/56506849/123547040-5e72b800-d789-11eb-9c99-63efd16cf253.jpeg)
+
+
+
+Buat view login
+![WhatsApp Image 2021-06-27 at 20 41 55 (2)](https://user-images.githubusercontent.com/56506849/123547070-87934880-d789-11eb-9e8b-c3e145aa95ee.jpeg)
+
+
+
+
+
